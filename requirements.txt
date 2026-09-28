@@ -1,0 +1,8 @@
+kagglehub
+sentence-transformers
+faiss-cpu
+mistralai>=2.0
+matplotlib
+pandas
+numpy
+jupyter

@@ -1,0 +1,16 @@
+# Secrets
+.env
+*.key
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.ipynb_checkpoints/
+
+# Fichiers générés / volumineux
+*.sqlite
+*.db
+faiss_index.bin
+qa_pairs.pkl
